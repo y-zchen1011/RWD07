@@ -1,0 +1,52 @@
+main{
+  .picFull{
+    height: 960px;
+    width: 960px;
+  }
+
+  h3{
+    margin: 192px 96px;
+  }
+  p{
+    margin: 96px 135px;
+  }
+  i{
+    padding: 24px 0 24px 15px;
+  }
+  .primaryRow{
+    p{
+      margin: 0;
+    }
+    padding-left: 255px !important;
+  }
+  .pagination{
+
+  }
+}
+
+
+
+.banner{
+  height: 640px;
+  background: url("https://hexschool.github.io/webLayoutTraining1st/week7/img4.jpg") top center no-repeat;
+  background-size: cover;
+
+  .bannerTextWrapper{
+    height: 640px;
+  }
+  .bannerText{
+    width: 450px;
+    margin-bottom: 77px;
+
+  }
+}
+
+
+.map{
+  img{
+    height: 600px;
+  }
+  h5{
+    font: italic normal 900 24px/31px Merriweather;
+  }
+}

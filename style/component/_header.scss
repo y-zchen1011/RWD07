@@ -1,0 +1,19 @@
+header{
+  .logo{
+    a{
+      background-image: url("https://hexschool.github.io/webLayoutTraining1st/week7/logo-fixie.svg");
+      background-repeat: no-repeat;
+      width: 112px;
+      height: 48px;
+      display: block;
+      text-indent: 150%;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  }
+  li{
+    a{
+      font: normal normal bold 24px/24px Lato;
+    }
+  }
+}
